@@ -13,6 +13,7 @@
 | 赖琳   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| https://github.com/Phyllislai12/1801212867-PHBS_BlockChain_2019|
 | 玻澜   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| https://github.com/bolan0107/PHBS_BlockChain_2019|
 | 顾庞   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| https://github.com/gupang/PHBS_BlockChain_2019|
+| 任嘉曦   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| https://github.com/JiaXi-Ren/PHBS_BlockChain_2019|
 
 
 
